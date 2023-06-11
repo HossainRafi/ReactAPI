@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
 import Card from "./Card";
+import { useEffect, useState } from "react";
 
 function Main() {
   const [data, setData] = useState([]);
